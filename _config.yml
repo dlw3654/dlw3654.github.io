@@ -30,7 +30,6 @@ url: "https://dwells.com" # the base hostname & protocol for your site, e.g. htt
 github_username:  dlw3654
 
 # Build settings
-theme: leap-day
 plugins:
   - jekyll-feed
 
